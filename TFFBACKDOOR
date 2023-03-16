@@ -1,6 +1,5 @@
 local onay = true
 
 if onay == true then
-error()
-error()
+print("ALPHIUM")
 end
