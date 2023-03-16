@@ -1,5 +1,6 @@
 local onay = true
 
 if onay == true then
-print("load")
+error()
+error()
 end
