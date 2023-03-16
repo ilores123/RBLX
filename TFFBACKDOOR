@@ -1,0 +1,5 @@
+local onay = true
+
+if onay == true then
+print("load")
+end
