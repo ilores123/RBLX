@@ -1,5 +1,0 @@
-local onay = true
-
-if onay == true then
-print("ALPHIUM")
-end
